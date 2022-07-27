@@ -1,5 +1,5 @@
 # FC2.0-Notify2
-Second Notify UI Based on FiveCity notify Created By <b>[ExperienceStudio](https://discord.experiencestudio.pl/)</b>
+Second Notify UI Based on FiveCity <br>Created By <b>[ExperienceStudio](https://discord.experiencestudio.pl/)</b>
 <h1>Usage</h1>
 
 ```lua
